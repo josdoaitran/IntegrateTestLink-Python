@@ -13,3 +13,5 @@ TestLink-API-Python-client delivers two main classes
 and the helper class.
 - TestLinkHelper - search connection parameter from environment variables and command line arguments
 How to talk with TestLink in a python shell and copy a test case:
+
+## Reference: https://github.com/lczub/TestLink-API-Python-client/wiki
