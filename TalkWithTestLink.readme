@@ -17,5 +17,4 @@ python
 createTestPlan(<testplanname>, <testprojectname>, [note=<note>], [active=<active>],
                [public=<public>], [devKey=<devKey>])
   create a test plan
-  
  ```
